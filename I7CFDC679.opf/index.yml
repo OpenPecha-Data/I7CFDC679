@@ -1,0 +1,85 @@
+id: 53f37354edb046099e0694a9a9d361cc
+annotation_type: index
+revision: '00001'
+annotations:
+  1d7d120aa24e485f8751a7e029400e2d:
+    base: C826.txt
+    Chapters:
+    - title: Piṇḍoddāna 1
+      span:
+        start: 0
+        end: 102
+    - title: Uddāna 2. Background for the establishemnet of the Pravāraṇākarma
+      span:
+        start: 103
+        end: 3640
+    - title: Course of the Pravāraṇā
+      span:
+        start: 3641
+        end: 9366
+    - title: The two premisses for Pravāraṇā
+      span:
+        start: 9367
+        end: 9707
+    - title: Pravāraṇā of a sick monk
+      span:
+        start: 9708
+        end: 13928
+    - title: Three kinds of Pravāraṇā according to the number of the participants
+      span:
+        start: 13929
+        end: 15638
+    - title: Antaroddāna 3. The right moment for Pravāraṇāsthāpanā
+      span:
+        start: 15639
+        end: 17554
+    - title: Various forms of the ceremony in accordance with the numbers of repetition
+        in the recitation of the Pravāraṇā fromula
+      span:
+        start: 17555
+        end: 17724
+    - title: Antaroddāna 4
+      span:
+        start: 17725
+        end: 33073
+    - title: Canceling the Pravāraṇā because of absence
+      span:
+        start: 33074
+        end: 33434
+    - title: Pravāraṇā only in the complete and pure congreagtion
+      span:
+        start: 33435
+        end: 34715
+    - title: Uddāna 5
+      span:
+        start: 34716
+        end: 36711
+    - title: Conditions for the just accusation (codanā) of a Bhikṣu and making the
+        reality of the case clear
+      span:
+        start: 36712
+        end: 42528
+    - title: Uddāna 6
+      span:
+        start: 42529
+        end: 42644
+    - title: Not performing the Pravāraṇā befor all the recident monks are assembled
+      span:
+        start: 42645
+        end: 43396
+    - title: Uddāna 7
+      span:
+        start: 43397
+        end: 43584
+    - title: The cancelling of the Pravāraṇā because of disagreement
+      span:
+        start: 43585
+        end: 45226
+    - title: The cancelling of the Pravāraṇā because of, and against, a sick monk
+      span:
+        start: 45227
+        end: 45926
+    - title: Four possible states of the matters when disagreement
+      span:
+        start: 45927
+        end: 47385

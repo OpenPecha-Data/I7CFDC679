@@ -1,0 +1,16 @@
+id: I7CFDC679
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:02:52.624221
+last_modified: 2023-02-09 15:02:52.624338
+source_metadata:
+  title: 'MSV 1,03: Pravāraṇāvastu'
+  language: bo
+bases:
+  C826:
+    base_file: C826.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
